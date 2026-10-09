@@ -1,7 +1,7 @@
 # Panduan Lengkap Setup Diskless Server (iPXE + iSCSI + Nginx + Ubuntu 24.04) untuk WARNET hingga LAB Komputer 
 
 ## Oleh: Purwanto (Network Engineer PT InfraSolusi)
-## Contact: 
+## Contact: +62 822-3348-3221
 
 Panduan dari A-Z ini dirancang khusus untuk spesifikasi hardware Anda:
 *   **Server:** Dell PowerEdge R730, RAM 128GB, RAID 10 (4x SSD Samsung EVO 1TB)
